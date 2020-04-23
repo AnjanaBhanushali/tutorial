@@ -11,7 +11,7 @@ class employees(models.Model):
     """
     msg_id=models.CharField(max_length=100,null=True)
     isImportant=models.BooleanField(default=False)
-    picture=models.ImageField(default='default.png',blank=True)
+   # picture=models.ImageField(default='default.png',blank=True)
     form = models.TextField(null=True)
     subject = models.TextField(null=True)
     message = models.TextField(null=True)
