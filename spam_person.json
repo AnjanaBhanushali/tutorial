@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "msg_id": "171a6f15f578566a",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "GitHub <noreply@github.com>",
+        "subject": "[GitHub] A personal access token has been added to your account",
+        "message": "Hey AnjanaBhanushali! A personal access token (PyCharm Github Integration Plugin access token) with gist and repo scopes was recently added to your account. Visit https://github.com/settings/tokens for",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 2,
+        "msg_id": "171a6ef617eeceda",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "GitHub <noreply@github.com>",
+        "subject": "[GitHub] A personal access token has been added to your account",
+        "message": "Hey AnjanaBhanushali! A personal access token (GitHub Access Token for Django PyCharm) with admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 3,
+        "msg_id": "171a6b1fdea34573",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "Facebook <notification@facebookmail.com>",
+        "subject": "Sam Graham posted in The Drawing Club and Community",
+        "message": "Anjana, take a look at what they&#39;re posting. Facebook Sam Graham shared a photo in The Drawing Club and Community 23 April at 14:29 I hope you like it. 9 Like Comment View on Facebook Edit Email",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 4,
+        "msg_id": "171a68c1edaaa3a7",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "Facebook <notification@facebookmail.com>",
+        "subject": "Ayushi Rathod wants to be friends on Facebook",
+        "message": "Ayushi Rathod wants to be friends with you on Facebook. Ayushi Rathod Naimiksha Rathod and 12 other mutual friends Confirm Request Facebook Ayushi Rathod wants to be friends with you on Facebook.",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 5,
+        "msg_id": "171a56a70be38a78",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "\"Qazi (Clever Programmer)\" <qazi@cleverprogrammer.com>",
+        "subject": "\u26a0\ufe0f\u26a0\ufe0f1 hour left  \u26a0\ufe0f\u26a0\ufe0f",
+        "message": "Hey Anjana, It&#39;s now or never. You already know the deal. The price for Profit with JavaScript price goes up by $100 in 1 hour... \u200b&gt;&gt;&gt; Click here to join Profit with JavaScript for 1",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 6,
+        "msg_id": "171a4e4bb0909311",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "Facebook for Business <no-reply@support.facebook.com>",
+        "subject": "How to stay connected with your customers",
+        "message": "Things you can do now to keep in touch on Facebook. Things you can do now to keep in touch on Facebook. \u200c Stay connected with your customers At Facebook, we&#39;re committed to keeping businesses like",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 7,
+        "msg_id": "171a447f11e2d591",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "\"Taylor J. F. Payton\" <taylor@taypayart.com>",
+        "subject": "The 5th Drawing lesson has arrived.",
+        "message": "Now is not the time to give up! 5/6 - Drawing a spooky boi Redrawing an older drawing of mine showing you better drawing habits. Copyright \u00a9 2020 Taylor Payton, All rights reserved. This means the",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 8,
+        "msg_id": "171a3fec33066045",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "\"Qazi (Clever Programmer)\" <qazi@cleverprogrammer.com>",
+        "subject": "\u26a0\ufe0f\u26a0\ufe0fProfit with JavaScript (6 hours left) \u26a0\ufe0f\u26a0\ufe0f",
+        "message": "Hey Anjana, The price for Profit with JavaScript price goes up by $100 in... \u200bProfit with JavaScript\u200b \u200b The only course that&#39;ll help you become a kick-\ud83c\udf51 JavaScript developer, complete real-world",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    },
+    {
+        "id": 9,
+        "msg_id": "171a346a9b6c9c79",
+        "isImportant": false,
+        "picture": "https//api.androidhive.info/json/google.png",
+        "from": "\"Qazi (Clever Programmer)\" <qazi@cleverprogrammer.com>",
+        "subject": "Your $100 discount expires today! \u26a0\ufe0f  Enroll at Profit with JavaScript",
+        "message": "Hey Anjana, Enroll in Profit with JavaScript today to save $100... The clock is ticking. And once that timer is up... The price will be going back up to $497. And once the doors have closed, we won",
+        "timestamp": "10:30 AM",
+        "isRead": false
+    }
+]
