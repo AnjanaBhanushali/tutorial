@@ -11,6 +11,7 @@ import requests
 import email
 import base64
 import json
+import re
 
 
 from quickstart.detector import *
@@ -165,6 +166,7 @@ def main456():
 		#msgid=int(msg_id)
 		msgid=msg_id
 		FromToString = ''.join(map(str,from_))
+		FromToString = re.sub('<.*?>', '', FromToString)
 		SubjectToString = ''.join(map(str,subject))
 		snippet=getmessage['snippet']
 		check_lable=detect(snippet)
