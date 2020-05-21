@@ -22,7 +22,7 @@ def main456():
 	#r=requests.get("https://www.googleapis.com/gmail/v1/users/userId/messages")
 	#SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 	SCOPES= ['https://mail.google.com']
-	user_id = "bhanushalianj@gmail.com"
+	user_id = "(Your email_id)"
 
 
 	creds = None
@@ -142,7 +142,7 @@ def main456():
 	matchedmessage = ListMessagesMatchingQuery(service,user_id,query='')
 	labeledmessage = ListMessagesWithLabels(service,user_id,label_ids=[])
 
-	#msg_id="1707d50a9a060b39"
+	
 	j=0
 	dict=[]
 	spam_dic=[]
@@ -223,8 +223,7 @@ def main456():
 			fp.write(j_object)
 			fp.close()
 		"""
-		#file_path = "https://spam-message-detection.000webhostapp.com/file.json"
-		resp = requests.post("https://spam-message-detection.000webhostapp.com/file.json",json=spamj_object)
+		
 		"""
 		with open ("spam_person.json","w") as spamfp:
 			spamfp.write(spamj_object)
