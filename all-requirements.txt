@@ -29,6 +29,6 @@ six==1.14.0
 soupsieve==1.9.5
 uritemplate==3.0.1
 virtualenv==20.0.3
-waitress==1.4.3
+waitress==2.1.1
 WebOb==1.8.6
 WebTest==2.0.34
